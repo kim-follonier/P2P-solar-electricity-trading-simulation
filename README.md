@@ -1,1 +1,1 @@
-# P2P-solar-electricity-trading-simulation
+# P2P solar electricity trading simulation
