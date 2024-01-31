@@ -1,0 +1,12 @@
+﻿Amtliches Verzeichnis der Gebäudeadressen (Bundesamt für Landestopografie swisstopo) / Le répertoire officiel des adresses de bâtiments (Office fédéral de topographie swisstopo) / L'elenco ufficiale degli indirizzi degli edifici (Ufficio federale di topografia swisstopo) 197.1
+
+Datenformate im Bezugsrahmen LV95 - Formats de données en cadre de référence MN95 - Formati di dati in quadro di riferimento MN95
+Geodatabase LV95/MN95 Download: https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/gdb/2056/ch.swisstopo.amtliches-gebaeudeadressverzeichnis.zip
+INTERLIS2 LV95/MN95 Download: https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/xtf/2056/ch.swisstopo.amtliches-gebaeudeadressverzeichnis.zip
+CSV LV95/MN95 Download: https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/csv/2056/ch.swisstopo.amtliches-gebaeudeadressverzeichnis.zip
+
+Produktinformation - Informations sur le produit - Informazioni sul prodotto
+DE: https://www.swisstopo.admin.ch/de/geodata/amtliche-verzeichnisse/gebaeudeadressenverzeichnis.html
+FR: https://www.swisstopo.admin.ch/fr/geodata/repertoires-officiels-geographiques/repertoire-adresses-batiments.html
+IT: https://www.swisstopo.admin.ch/it/geodata/elenchi-geografici-ufficiali/elenco-indirizzi-edifici.html
+EN: https://www.swisstopo.admin.ch/en/geodata/official-geographic-directories/building-addresses.html
